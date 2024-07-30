@@ -3,4 +3,4 @@ filters:
   file_format: QT
   source_file: src/template.ts
   source_language: en
-  translation_files_expression: 'translation/<lang>.ts'
+  translation_files_expression: 'translation/<lang>/'
