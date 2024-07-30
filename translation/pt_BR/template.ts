@@ -7028,34 +7028,34 @@ Substituir a rede inicial?</translation>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="688"/>
         <source>Import IP Address Pools</source>
-        <translation type="unfinished"/>
+        <translation>Importar pools de endereços IP</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="744"/>
         <source>Export IP Address Pools</source>
-        <translation type="unfinished"/>
+        <translation>Exportar pools de endereços IP</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="785"/>
         <source>Import IP Address Variables</source>
-        <translation type="unfinished"/>
+        <translation>Importar variáveis de endereços IP</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="860"/>
         <source>Export IP Address Variables</source>
-        <translation type="unfinished"/>
+        <translation>Exportar variáveis de endereços IP</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="1074"/>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="1123"/>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="1170"/>
         <source>UNKNOWN</source>
-        <translation type="unfinished"/>
+        <translation>DESCONHECIDO</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="2330"/>
         <source>Select a Pool</source>
-        <translation type="unfinished"/>
+        <translation>Selecionar um pool</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_ECDModel.cpp" line="129"/>
@@ -7069,27 +7069,27 @@ Substituir a rede inicial?</translation>
         <location filename="../gui/activity/Wizard/ActivityWizard_ECDModel.cpp" line="266"/>
         <location filename="../gui/activity/Wizard/ActivityWizard_ECDModel.cpp" line="281"/>
         <source>The Script Module must be running. Start it in the Scripting tab first.</source>
-        <translation type="unfinished"/>
+        <translation>O módulo de script deve estar em execução. Inicie-o na aba Scripts</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_CodeTesting.cpp" line="106"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Editar</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_CodeTesting.cpp" line="115"/>
         <source>Check Results</source>
-        <translation type="unfinished"/>
+        <translation>Verificar resultados</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_CodeTesting.cpp" line="116"/>
         <source>Dynamic Checking</source>
-        <translation type="unfinished"/>
+        <translation>Verificação dinâmica</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_CodeTesting.cpp" line="117"/>
         <source>Environment Time</source>
-        <translation type="unfinished"/>
+        <translation>Tempo do ambiente</translation>
     </message>
 </context>
 <context>
@@ -7097,7 +7097,7 @@ Substituir a rede inicial?</translation>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizardIcon.cpp" line="98"/>
         <source>Activity Wizard</source>
-        <translation type="unfinished"/>
+        <translation>Assistente de Atividades</translation>
     </message>
 </context>
 <context>
@@ -7105,22 +7105,22 @@ Substituir a rede inicial?</translation>
     <message>
         <location filename="../gui/DeviceConfig/Router/AdminManagement.cpp" line="123"/>
         <source>Re-Enter Confirm Password.</source>
-        <translation type="unfinished"/>
+        <translation>Reinsira a confirmação de senha.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/AdminManagement.cpp" line="127"/>
         <source>Enter Password.</source>
-        <translation type="unfinished"/>
+        <translation>Insira a senha.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/AdminManagement.cpp" line="132"/>
         <source>This feature can only be accessed from PC browser.</source>
-        <translation type="unfinished"/>
+        <translation>Este recurso só pode ser acessado do navegador do PC.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/AdminManagement.cpp" line="132"/>
         <source>Firmware Upgrade</source>
-        <translation type="unfinished"/>
+        <translation>Atualização do firmware</translation>
     </message>
 </context>
 <context>
@@ -7130,21 +7130,21 @@ Substituir a rede inicial?</translation>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="444"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="447"/>
         <source>Web Access</source>
-        <translation type="unfinished"/>
+        <translation>Acesso web</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="370"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="382"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="385"/>
         <source>Remote Access</source>
-        <translation type="unfinished"/>
+        <translation>Acesso remoto</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="401"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="413"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="416"/>
         <source>Upnp</source>
-        <translation type="unfinished"/>
+        <translation>Upnp</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="339"/>
@@ -7158,21 +7158,21 @@ Substituir a rede inicial?</translation>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="475"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="478"/>
         <source>Router Access</source>
-        <translation type="unfinished"/>
+        <translation>Acesso ao roteador</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="597"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="600"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="603"/>
         <source>Router Password:</source>
-        <translation type="unfinished"/>
+        <translation>Senha do roteador:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="636"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="639"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="642"/>
         <source>Re-enter to confirm:</source>
-        <translation type="unfinished"/>
+        <translation>Reinsera para confirmar:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="688"/>
@@ -7182,14 +7182,14 @@ Substituir a rede inicial?</translation>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="971"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="974"/>
         <source>Web Utility Access:</source>
-        <translation type="unfinished"/>
+        <translation>Acesso ao utilitário web</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="773"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="779"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="782"/>
         <source>Web Utility Access via Wireless: </source>
-        <translation type="unfinished"/>
+        <translation>Acesso ao utilitário web via wireless: </translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="725"/>
@@ -7199,23 +7199,23 @@ Substituir a rede inicial?</translation>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="999"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1002"/>
         <source>HTTP</source>
-        <translation type="unfinished"/>
+        <translation>HTTP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="20"/>
         <source>Setup</source>
-        <translation type="unfinished"/>
+        <translation>Configuração</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="308"/>
         <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Management&lt;/b&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Gerenciamento&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="320"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="323"/>
         <source>Management</source>
-        <translation type="unfinished"/>
+        <translation>Gerenciamento</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="747"/>
@@ -7225,7 +7225,7 @@ Substituir a rede inicial?</translation>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1018"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1021"/>
         <source>HTTPS</source>
-        <translation type="unfinished"/>
+        <translation>HTTPS</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="807"/>
@@ -7238,7 +7238,7 @@ Substituir a rede inicial?</translation>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1078"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1081"/>
         <source>Enabled</source>
-        <translation type="unfinished"/>
+        <translation>Habilitado</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="829"/>
@@ -7260,35 +7260,35 @@ Substituir a rede inicial?</translation>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1758"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1761"/>
         <source>Disabled</source>
-        <translation type="unfinished"/>
+        <translation>Desabilitado</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="862"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="865"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="868"/>
         <source>Remote Management:</source>
-        <translation type="unfinished"/>
+        <translation>Gerenciamento remoto:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1038"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1041"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1044"/>
         <source>Remote Upgrade:</source>
-        <translation type="unfinished"/>
+        <translation>Atualização remota:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1118"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1121"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1124"/>
         <source>Allowed Remote Ip Address:</source>
-        <translation type="unfinished"/>
+        <translation>Endereço IP remoto permitido:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1170"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1173"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1176"/>
         <source>Any Ip Address</source>
-        <translation type="unfinished"/>
+        <translation>Qualquer endereço IP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1215"/>
@@ -7320,55 +7320,57 @@ Substituir a rede inicial?</translation>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1304"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1307"/>
         <source>.</source>
-        <translation type="unfinished"/>
+        <translation>.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1342"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1345"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1348"/>
         <source>to</source>
-        <translation type="unfinished"/>
+        <translation>para</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1417"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1420"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1423"/>
         <source>Remote Management Port:</source>
-        <translation type="unfinished"/>
+        <translation>Porta de gerenciamento remoto:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1448"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1451"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1454"/>
         <source>80</source>
-        <translation type="unfinished"/>
+        <translation>80</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1500"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1503"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1506"/>
         <source>Upnp:</source>
-        <translation type="unfinished"/>
+        <translation>Upnp:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1585"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1591"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1594"/>
         <source>Allow Users to Configure:</source>
-        <translation type="unfinished"/>
+        <translation>Permitir usuários configurarem:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1679"/>
         <source>Allow Users to 
 Disable Internet
 Access:</source>
-        <translation type="unfinished"/>
+        <translation>Permitir que usuários
+desabilitem acesso da
+Internet:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1687"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1690"/>
         <source>Allow Users to Disable InternetAccess:</source>
-        <translation type="unfinished"/>
+        <translation>Permitir que usuários desabilitem acesso da Internet:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2342"/>
@@ -7377,13 +7379,17 @@ Access:</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Ajuda...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2324"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2327"/>
         <source>Help...</source>
-        <translation type="unfinished"/>
+        <translation>Ajuda...</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1537"/>
@@ -7396,35 +7402,35 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1730"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1733"/>
         <source>Enabled </source>
-        <translation type="unfinished"/>
+        <translation>HAbilitado</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1897"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1900"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1903"/>
         <source>BackUp Configurations</source>
-        <translation type="unfinished"/>
+        <translation>Configurações de backup</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1956"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1959"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1962"/>
         <source>Restore Configurations</source>
-        <translation type="unfinished"/>
+        <translation>Configurações de restauração</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2112"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2118"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2121"/>
         <source>Save Settings</source>
-        <translation type="unfinished"/>
+        <translation>Salvar configurações</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2137"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2143"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2146"/>
         <source>Cancel Changes</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar alterações</translation>
     </message>
 </context>
 <context>
@@ -7433,7 +7439,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="70"/>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="301"/>
         <source>Admin_Opts</source>
-        <translation type="unfinished"/>
+        <translation>Admin_Opts</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="323"/>
@@ -7441,17 +7447,17 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="585"/>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="600"/>
         <source>Auto Detect</source>
-        <translation type="unfinished"/>
+        <translation>Autodetectar</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="709"/>
         <source>Please enter the password: </source>
-        <translation type="unfinished"/>
+        <translation>Por favor, insira a senha:</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="730"/>
         <source>The password you entered is incorrect!</source>
-        <translation type="unfinished"/>
+        <translation>A senha que você inseriu está incorreta.</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="252"/>
@@ -7467,81 +7473,81 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="320"/>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="582"/>
         <source>No Proxy</source>
-        <translation type="unfinished"/>
+        <translation>Sem proxy</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="326"/>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="588"/>
         <source>HTTP Caching Proxy</source>
-        <translation type="unfinished"/>
+        <translation>Proxy de cache HTTP</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="329"/>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="591"/>
         <source>HTTP Proxy</source>
-        <translation type="unfinished"/>
+        <translation>Proxy HTTP</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="332"/>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="594"/>
         <source>FTP Caching Proxy</source>
-        <translation type="unfinished"/>
+        <translation>Proxy de cache FTP</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="335"/>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="597"/>
         <source>Socks 5</source>
-        <translation type="unfinished"/>
+        <translation>Socks 5</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="619"/>
         <source>Show/Hide</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Ocultar</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="621"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"/>
+        <translation>Miscelânea</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="708"/>
         <source>Password? -- %1</source>
-        <translation type="unfinished"/>
+        <translation>Senha? -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="729"/>
         <source>Incorrect Password -- %1</source>
-        <translation type="unfinished"/>
+        <translation>Senha incorreta -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1111"/>
         <source>Save Log File</source>
-        <translation type="unfinished"/>
+        <translation>Salvar arquivo de log</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1112"/>
         <source>Log files (*.txt)</source>
-        <translation type="unfinished"/>
+        <translation>Arquivos de log (*.txt)</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1169"/>
         <source>The language will be changed the next time you start this application.</source>
-        <translation type="unfinished"/>
+        <translation>O idioma será alterado na próxima vez que você iniciar este aplicativo.</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1169"/>
         <source>Change Language -- %1</source>
-        <translation type="unfinished"/>
+        <translation>Alterar idioma -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1197"/>
         <source>Password Does Not Match -- %1</source>
-        <translation type="unfinished"/>
+        <translation>A senha não corresponde -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1692"/>
         <source>Restart %1</source>
-        <translation type="unfinished"/>
+        <translation>Reiniciar %1</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1692"/>
@@ -7606,27 +7612,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1658"/>
         <source>1 Min</source>
-        <translation type="unfinished"/>
+        <translation>1 Min</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1660"/>
         <source>5 Min</source>
-        <translation type="unfinished"/>
+        <translation>5 Min</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1662"/>
         <source>10 Min</source>
-        <translation type="unfinished"/>
+        <translation>10 Min</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1664"/>
         <source>15 Min</source>
-        <translation type="unfinished"/>
+        <translation>15 Min</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1666"/>
         <source>20 Min</source>
-        <translation type="unfinished"/>
+        <translation>20 Min</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1767"/>
@@ -7925,7 +7931,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1670"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2311"/>
         <source>Courier New</source>
-        <translation type="unfinished"/>
+        <translation>Courier New</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1426"/>
@@ -7936,7 +7942,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2074"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2431"/>
         <source>Times New Roman</source>
-        <translation type="unfinished"/>
+        <translation>Times New Roman</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1431"/>
@@ -7947,7 +7953,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2079"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2436"/>
         <source>Arial</source>
-        <translation type="unfinished"/>
+        <translation>Arial</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1436"/>
@@ -7959,7 +7965,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2316"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2441"/>
         <source>Courier</source>
-        <translation type="unfinished"/>
+        <translation>Courier</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1457"/>
@@ -7971,7 +7977,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2334"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2459"/>
         <source>8</source>
-        <translation type="unfinished"/>
+        <translation>8</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1462"/>
@@ -7983,7 +7989,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2339"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2464"/>
         <source>9</source>
-        <translation type="unfinished"/>
+        <translation>9</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1467"/>
@@ -7995,7 +8001,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2344"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2469"/>
         <source>10</source>
-        <translation type="unfinished"/>
+        <translation>10</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1472"/>
@@ -8007,7 +8013,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2349"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2474"/>
         <source>11</source>
-        <translation type="unfinished"/>
+        <translation>11</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1477"/>
@@ -8022,7 +8028,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2354"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2479"/>
         <source>12</source>
-        <translation type="unfinished"/>
+        <translation>12</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1482"/>
@@ -8034,7 +8040,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2359"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2484"/>
         <source>13</source>
-        <translation type="unfinished"/>
+        <translation>13</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1487"/>
@@ -8046,7 +8052,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2364"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2489"/>
         <source>14</source>
-        <translation type="unfinished"/>
+        <translation>14</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1492"/>
@@ -8058,7 +8064,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2369"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2494"/>
         <source>15</source>
-        <translation type="unfinished"/>
+        <translation>15</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1497"/>
@@ -8070,7 +8076,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2374"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2499"/>
         <source>16</source>
-        <translation type="unfinished"/>
+        <translation>16</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1502"/>
@@ -8082,7 +8088,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2379"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2504"/>
         <source>17</source>
-        <translation type="unfinished"/>
+        <translation>17</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1507"/>
@@ -8094,7 +8100,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2384"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2509"/>
         <source>18</source>
-        <translation type="unfinished"/>
+        <translation>18</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1517"/>
@@ -8105,7 +8111,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2394"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2519"/>
         <source>20</source>
-        <translation type="unfinished"/>
+        <translation>20</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2406"/>
@@ -8694,27 +8700,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3120"/>
         <source>1 Min</source>
-        <translation type="unfinished"/>
+        <translation>1 Min</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3125"/>
         <source>5 Min</source>
-        <translation type="unfinished"/>
+        <translation>5 Min</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3130"/>
         <source>10 Min</source>
-        <translation type="unfinished"/>
+        <translation>10 Min</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3135"/>
         <source>15 Min</source>
-        <translation type="unfinished"/>
+        <translation>15 Min</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3140"/>
         <source>20 Min</source>
-        <translation type="unfinished"/>
+        <translation>20 Min</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3148"/>
