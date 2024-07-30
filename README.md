@@ -2,7 +2,7 @@
 
 Unofficial project for translating [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer). Translations take place in [Transifex](https://explore.transifex.com/rafaelff1/packettracer/) and are automatically committed to this repository.
 
-Check [Packet Tracer Translation Process guide](https://tutorials.ptnetacad.net/help/default/translation.htm) for more info.
+Check [Packet Tracer Translation Process guide](https://tutorials.ptnetacad.net/help/default/translation.htm) for translation-related info. See https://tutorials.ptnetacad.net/ for more documentation on Packet Tracer.
 
 For starters in Transifex, see [Getting started as a translator](https://help.transifex.com/en/articles/6248698-getting-started-as-a-translator) in Transifex Help website.
 ## License
