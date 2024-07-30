@@ -3183,7 +3183,7 @@ Comentários: </translation>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1936"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1939"/>
         <source>To Add: Fill in the required Name, Minimum and Maximum Values. To Edit: Double-Click in the cell and change the value To Remove: Click anywhere in the row to be deleted and press the Delete key. Range: Positive and negative Integer numbers. Seed variables can be substituted for integers using [[variablename]].</source>
-        <translation>Para Adicionar: Preencha o Nome, valores mínimos e máximos necessários. Para Editar: Clique duas vezes na célula e altere o valor. Para Remover: Clique em qualquer lugar na linha a ser excluída e pressione a tecla Delete. Intervalo: Números Inteiros positivos e negativos. Variáveis ​​semente podem ser substituídas por inteiros usando [[nomedavariável]].</translation>
+        <translation>Para Adicionar: Preencha o Nome, valores mínimos e máximos necessários. Para Editar: Clique duas vezes na célula e altere o valor. Para Remover: Clique em qualquer lugar na linha a ser excluída e pressione a tecla Delete. Intervalo: Números Inteiros positivos e negativos. Variáveis ​​semente podem ser substituídas por inteiros usando [[variablename]].</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="2995"/>
@@ -3235,7 +3235,7 @@ Comentários: </translation>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4213"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4216"/>
         <source>To Add: Fill in the required Name and Text FieldsThe Text field can contain text, numbers, Seeds and Number Variables data, separated by semi-colons to create the data pool. Seed and Number variables can be substituted for text data using [[variablename]].To Edit: Double-Click in the cell and change the valueTo Remove: Click anywhere in the row to be deleted and press the Delete key</source>
-        <translation>Para adicionar: preencha os campos Nome e Texto necessários. O campo Texto pode conter texto, números, dados de Sementes e Variáveis ​​numéricas, separados por ponto e vírgula para criar o conjunto de dados. As variáveis ​​Semente e Número podem ser substituídas por dados de texto usando [[nomedavariável]]. Para editar: clique duas vezes na célula e altere o valor. Para remover: clique em qualquer lugar na linha a ser excluída e pressione a tecla Delete.</translation>
+        <translation>Para adicionar: preencha os campos Nome e Texto necessários. O campo Texto pode conter texto, números, dados de Sementes e Variáveis ​​numéricas, separados por ponto e vírgula para criar o conjunto de dados. As variáveis ​​Semente e Número podem ser substituídas por dados de texto usando [[variablename]]. Para editar: clique duas vezes na célula e altere o valor. Para remover: clique em qualquer lugar na linha a ser excluída e pressione a tecla Delete.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4206"/>
