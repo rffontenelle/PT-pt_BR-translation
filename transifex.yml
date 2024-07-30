@@ -1,6 +1,6 @@
 filters:
-  - filter_type: dynamic
-    file_format: QT
-    source_language: en
-    source_files_expression: src/<file>.ts
-    translation_files_expression: 'translation/<lang>.ts'
+- filter_type: file
+  file_format: QT
+  source_file: src/template.ts
+  source_language: en
+  translation_files_expression: 'translation/<lang>.ts'
